@@ -12,10 +12,10 @@ Abrir [demo](https://react-poke-api-sv.herokuapp.com/) en el navegador.
 
 
 ### `local deploy `
-git clone https://github.com/iAmRivard/react-pokemon.git<br />
-npm install<br />
-npm run start <br />
+1. git clone https://github.com/iAmRivard/react-pokemon.git<br />
+2. npm install<br />
+3. npm run start <br />
 
-### `local deploy `
+### `contacto`
 Puedes contactarme: [contacto](https://rivasdev.tech/contacto)
 
