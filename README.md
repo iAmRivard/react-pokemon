@@ -1,6 +1,6 @@
-Este proyecto ha sido creado con React.js [Create React App](https://github.com/facebook/create-react-app).
-Utilizando [react-loading-skeleton](https://www.npmjs.com/package/react-loading-skeleton)
-Utilizando [react-bootstrap-typeahead](https://www.npmjs.com/package/react-bootstrap-typeahead)
+Este proyecto ha sido creado con React.js [Create React App](https://github.com/facebook/create-react-app).<br />
+Utilizando [react-loading-skeleton](https://www.npmjs.com/package/react-loading-skeleton).<br />
+Utilizando [react-bootstrap-typeahead](https://www.npmjs.com/package/react-bootstrap-typeahead).<br />
 ## Sobre el proyecto
 
 ### `demo`
