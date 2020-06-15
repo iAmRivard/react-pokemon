@@ -1,8 +1,7 @@
 Este proyecto ha sido creado con React.js [Create React App](https://github.com/facebook/create-react-app).
-
+Utilizando [react-loading-skeleton](https://www.npmjs.com/package/react-loading-skeleton)
+Utilizando [react-bootstrap-typeahead](https://www.npmjs.com/package/react-bootstrap-typeahead)
 ## Sobre el proyecto
-
-El el proyecto tu puedes ver:
 
 ### `demo`
 
